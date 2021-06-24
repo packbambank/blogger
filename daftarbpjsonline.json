@@ -2,7 +2,7 @@
   "redirect": {
     "HOMEURL": "https://daftarbpjsonline.blogspot.com/p/1-cara-daftar-bpjs.html",
     "Json_popup_Wait": "App Ready",
-    "MODE_NO_ADS": false,
+    "MODE_NO_ADS": true,
     "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL": true,
     "PENGATURAN_IKLAN_banner": "ADMOB",
     "PENGATURAN_IKLAN_inter": "ADMOB",
@@ -13,7 +13,7 @@
     "ads_on_exit_dialog": true,
     "Mode_offline_mp3": false,
     "Enable_Sticky_Notification": false,
-    "STARAPPID": "201365479",
+    "STARAPPID": "",
     "ADMOB_BANNER": "ca-app-pub-2314593950848693/9824586142",
     "ADMOB_INTER": "ca-app-pub-2314593950848693/8511504478",
     "ADMOB_NATIV": "ca-app-pub-2314593950848693/5885341134",
@@ -29,7 +29,7 @@
     "APPODEAL_APP_ID": "YOUR_APPODEAL_APP_KEY",
     "UNITY_BANNER": "banner",
     "UNITY_INTERSTITIAL": "interstitial",
-    "UNITY_GAME_ID": "4045251",
+    "UNITY_GAME_ID": "",
     "UNITY_TEST_MODE": "true",
     "APPLOVIN_BANNER_ID": "71f5faf4df08917c",
     "APPLOVIN_INTERSTITIAL_ID": "4711e1718612d7dc",
@@ -43,7 +43,7 @@
     "Share_TXT": "Supperr APPS Download Now",
     "More_Button": "Share Via WhatsApp",
     "Url_More_Apps": "https:// jika share button TRUE maka tombol MORE berubah SHARE",
-    "Select_Exit": "2",
+    "Select_Exit": "1",
     "Judul_Promote": "Try Now",
     "Deskripsi_Promote": "Try our new apps for free"
   }
